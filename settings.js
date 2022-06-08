@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              lightbot 𝓫𝔂 𝓷𝓲𝓬𝓸𝓸𝔀𝓻𝓵𝓭𝔁
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['4915678366725']
+global.premium = ['4915678366725']
+global.ownernomer = '4915678366725'
+global.ownername = 'nicoowrldx'
+global.botname = 'light bot'
+global.footer = '©nicoowrldx.'
+global.ig = 'https://github.com/14spee'
+global.region = 'germany'
+global.sc = 'https://github.com/nicoowrldx'
+global.myweb = 'https://youtube.com/channel/nicoowrldx'
+global.packname = 'light bot'
+global.author = 'nicoowrldx'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
